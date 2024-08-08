@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/AppInnovation-42966501/GitHub%20Integration2/_apis/build/status%2Fkevintse-test.ContosoAir?branchName=master)](https://dev.azure.com/AppInnovation-42966501/GitHub%20Integration2/_build/latest?definitionId=6&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
